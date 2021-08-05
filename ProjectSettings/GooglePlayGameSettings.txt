@@ -1,0 +1,9 @@
+lastUpgrade=01012
+proj.pluginVersion=0.10.12
+proj.AppId=248407831372
+and.BundleId=com.VishalKarthik.LoseControl2d
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e248407831372%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.VishalKarthik.LoseControl2d%3c%2fstring%3e%0d%0a++%3c%21--achievement+2K+Club--%3e%0d%0a++%3cstring+name%3d%22achievement_2k_club%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+4K+Club--%3e%0d%0a++%3cstring+name%3d%22achievement_4k_club%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+6K+Club--%3e%0d%0a++%3cstring+name%3d%22achievement_6k_club%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Collector--%3e%0d%0a++%3cstring+name%3d%22achievement_collector%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Shopaholic--%3e%0d%0a++%3cstring+name%3d%22achievement_shopaholic%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Marathon--%3e%0d%0a++%3cstring+name%3d%22achievement_marathon%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Miner--%3e%0d%0a++%3cstring+name%3d%22achievement_miner%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQCA%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+High+Score--%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_score%22+translatable%3d%22false%22%3eCgkIzOaKsp0HEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
